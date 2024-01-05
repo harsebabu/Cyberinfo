@@ -1,0 +1,139 @@
+ 
+ 
+body {
+   margin: 0;
+   padding: 0;
+   font-family: 'Arial', sans-serif;
+}
+
+.container {
+   width: 80%;
+   margin: 0 auto;
+   text-align: center;
+   
+}
+
+header {
+   background-color: #190202;
+   color: #fff;
+   padding: 15px 0;
+}
+
+header h1 {
+   margin-right: 10px;
+}
+
+nav ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   margin-left: 175px;
+}
+
+nav ul li {
+   display: inline-block;
+   margin-right: 20px;
+   margin-bottom: 60px;
+   
+}
+.icon-logo{
+   border: 1px solid white;
+    border-radius: 50%;
+    margin-right: 10px;
+    padding: 5px;
+   
+
+}
+
+nav a {
+   text-decoration: none;
+   color: #fff;
+   font-weight: bold;
+   font-size: 16px;
+}
+
+nav a:hover {
+   border-bottom: 2px solid #fff;
+}
+h1{
+   text-align: center;
+}
+h4{
+   text-align: center;
+}
+.button1 {
+  text-align: center;
+   padding: 10px 20px;
+   font-size: 16px;
+   margin: 4px 2px;
+   border-radius: 13px;
+   background-color: rgb(186, 69, 153);
+   
+}
+.header-button{
+   display: flex;
+    justify-content: center;
+}
+.icon {
+   text-align: center;
+   margin-right: 88px;
+}
+.navbar-container{
+   display: flex;
+   flex-direction: row;
+         justify-content: center;
+}
+/*next line*/
+span {
+   height: 150px;
+   width: 360px;
+   border-width: 4px;
+   border-style: solid;
+   border-color: rgb(32, 3, 32);
+   padding-top: 8px;
+   padding-left: 25px;
+   margin-left: 4px;
+   
+   border-radius: 12px;
+   margin-bottom: 10px;
+
+   display: inline-block;
+}
+h2{
+   text-align: right;
+   width: 40%;
+}
+.section-container{
+   background-color: #0e060b;
+    background-size: cover;
+    color: #fff;
+    height: 130vh;
+    width: 100vw;
+}
+.paragrap{
+   display: flex;
+   flex-direction: row;
+   margin-left: 141px;
+}
+.nav-container{
+   display: flex;
+   margin-left: 12px;
+   flex-direction: row;
+         justify-content:left;
+}
+h6{
+   font-size: 15px;
+}
+.section-container2 {
+   background-color: #210215;
+    background-size: cover;
+    color: #fff;
+    height:500px ;
+    width: 100vw; 
+}
+.head {
+   text-align:right;
+   width: 50px;
+   margin-left: 50px;
+}
+
